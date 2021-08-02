@@ -1,5 +1,5 @@
 # PlayerJoinMessages
-A simple spigot plugin built for 1.17.x allow you to configure join and leave messages on your server.
+A simple spigot plugin built for 1.17.x that allows you to configure join and leave messages on your server.
 
 `config.yml` is where you can set up your custom messages. The `%player%` variable can be used to display the players name. Color codes are supported!
 
