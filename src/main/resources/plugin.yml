@@ -1,0 +1,7 @@
+name: PlayerJoinMessages
+version: ${project.version}
+main: me.supersanta.playerjoinmessages.PlayerJoinMessages
+api-version: 1.17
+authors: [ SuperSanta ]
+description: Simple configurable join and leave messages
+website: https://github.com/Super-Santa/PlayerJoinMessages
